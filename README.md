@@ -7,7 +7,7 @@ This script is wirtten using Python 3.7
 
 ## Prerequisites
 
-In order to run this code, it is needed to have Python3 and Jupyter Note book. Otherwise, it could be run via uplading it on any service that provides compilers for .ipynb, sich as Google Colab or Kaggle notebook.
+In order to run this code, it is needed to have Python3 and Jupyter Notebook. Otherwise, it could be run via uplading it on any service that provides compilers for .ipynb, such as Google Colab or Kaggle Notebook.
 
 
 # Running the tests
