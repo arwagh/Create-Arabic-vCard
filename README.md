@@ -3,6 +3,7 @@ This script generates multiple Arabic vCards given the information in CSV file.
 The same code is written in two files:
  1. main.ipynb 
  2. main.py
+ 
 They are same and you could run any file type you are more comfortable with.
 
 
