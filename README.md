@@ -9,9 +9,6 @@ This script is wirtten using Python 3.7
 
 In order to run this code, it is needed to have Python3 and Jupyter Notebook. Otherwise, it could be run via uplading it on any service that provides compilers for .ipynb, such as Google Colab or Kaggle Notebook.
 
-
-# Running the tests
-
 # Acknowledgments
 Main resources I used to write this code:
 
